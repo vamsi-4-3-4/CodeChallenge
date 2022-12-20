@@ -35,11 +35,11 @@ var myArray = [];
 // Setup
 var myArray = [];
 var i = 0 ;
-while (i < 5) {
+while (i < 6) {
   myArray.push(i);
   i++;
 }
-
+myArray.reverse();
 // Only change code below this line.
 ```
 
